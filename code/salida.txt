@@ -1,0 +1,4 @@
+Program: Program2-LOC
+File: App.java
+  LOC (code only): 8
+  Methods: 1
